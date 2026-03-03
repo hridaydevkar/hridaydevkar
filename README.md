@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:161b22&height=220&section=header&text=hriday%20devkar&fontColor=c9d1d9&fontSize=52&fontAlignY=38&desc=backend-first.%20full-stack%20always.&descAlignY=56&descSize=18&descColor=58a6ff" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1400&color=58A6FF&center=true&vCenter=true&width=600&lines=building+systems+that+don't+fall+over.;backend+engineer+%7C+ML+practitioner.;shipped+in+prod%2C+not+in+demos.;currently+exploring+GenAI+%26+LLM+pipelines." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1400&color=58A6FF&center=true&vCenter=true&width=600&lines=building+systems+that+don't+fall+over.;backend+engineer+%7C+ML+practitioner.;actively+seeking+SDE+%2F+backend+roles+%E2%80%94+%2727.;currently+exploring+GenAI+%26+LLM+pipelines." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <p align="center">
 <samp>
-full-stack engineer &nbsp;·&nbsp; backend systems &nbsp;·&nbsp; ML &amp; computer vision &nbsp;·&nbsp; GenAI
+backend engineer &nbsp;·&nbsp; ML &amp; GenAI &nbsp;·&nbsp; open to SDE &amp; backend roles &nbsp;·&nbsp; graduating 2027
 </samp>
 </p>
 
@@ -26,7 +26,8 @@ full-stack engineer &nbsp;·&nbsp; backend systems &nbsp;·&nbsp; ML &amp; compu
   <samp>
     <b>→ currently</b><br/><br/>
     backend dev intern @ <b>Route Mobile Ltd</b> &nbsp;·&nbsp; Python · Flask · REST APIs<br/>
-    diving into GenAI — RAG pipelines, LLM fine-tuning, vector stores
+    diving into GenAI — RAG pipelines, LLM fine-tuning, vector stores<br/>
+    graduating 2027 &nbsp;·&nbsp; available for full-time from mid-2027
   </samp>
 </p>
 
@@ -36,10 +37,10 @@ full-stack engineer &nbsp;·&nbsp; backend systems &nbsp;·&nbsp; ML &amp; compu
 
 | project | stack | what it does |
 |:--|:--|:--|
-| [**e-voting system**](https://github.com/hridaydevkar/voting_system) | Flask · PostgreSQL · Blockchain | tamper-proof e-voting with face recognition auth and blockchain audit trail |
-| [**emotion recognition**](https://github.com/hridaydevkar/EmotionRecognitionSystem) | Python · OpenCV · TensorFlow | real-time facial emotion detection from live video feed |
-| [**fraud detection**](https://github.com/hridaydevkar/CreditCardFraudDetection) | Python · Scikit-learn · pandas | high-accuracy ML model for spotting fraudulent card transactions |
-| [**youtube ad detector**](https://github.com/hridaydevkar/youtube-ad-detector-ml) | Python · CV · ML | detects and classifies YouTube ads in video streams using computer vision |
+| [**e-voting system**](https://github.com/hridaydevkar/voting_system) | Flask · PostgreSQL · Blockchain | tamper-proof e-voting — blockchain audit trail, face recognition auth, RBAC, zero data tampering by design |
+| [**emotion recognition**](https://github.com/hridaydevkar/EmotionRecognitionSystem) | Python · OpenCV · TensorFlow | 7-class real-time emotion classifier — live webcam feed, sub-100ms inference per frame |
+| [**fraud detection**](https://github.com/hridaydevkar/CreditCardFraudDetection) | Python · Scikit-learn · pandas | 94%+ ROC-AUC on 284K-transaction imbalanced dataset — precision-recall optimized |
+| [**youtube ad detector**](https://github.com/hridaydevkar/youtube-ad-detector-ml) | Python · CV · ML | frame-level ad classification on live video streams — OpenCV pipeline, real-time processing |
 | [**habit tracker**](https://github.com/hridaydevkar/habit-tracker) | TypeScript | minimal habit tracking app — shipped ✓ |
 
 <br/>
