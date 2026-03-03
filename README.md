@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hridaydevkar&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=161b22" />
+  <img src="https://komarev.com/ghpvc/?username=hridaydevkar&style=for-the-badge&color=24292f&label=PROFILE+VIEWS&labelColor=30363d" />
   &nbsp;
-  <a href="https://hridaydevkar.github.io/hridaydevkar-portfolio/"><img src="https://img.shields.io/badge/portfolio↗-0d1117?style=for-the-badge&labelColor=161b22&color=0d1117&logoColor=58a6ff&logo=safari" /></a>
+  <a href="https://hridaydevkar.github.io/hridaydevkar-portfolio/"><img src="https://img.shields.io/badge/portfolio↗-24292f?style=for-the-badge&labelColor=30363d&color=24292f&logoColor=58a6ff&logo=safari" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/hridaydevkar"><img src="https://img.shields.io/badge/linkedin↗-0d1117?style=for-the-badge&labelColor=161b22&logo=linkedin&logoColor=58a6ff" /></a>
+  <a href="https://linkedin.com/in/hridaydevkar"><img src="https://img.shields.io/badge/linkedin↗-24292f?style=for-the-badge&labelColor=30363d&logo=linkedin&logoColor=58a6ff" /></a>
 </p>
 
 <br/>
@@ -51,38 +51,38 @@ full-stack engineer &nbsp;·&nbsp; backend systems &nbsp;·&nbsp; ML &amp; compu
 <td valign="top" width="50%">
 
 **backend**<br/>
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=f89820)
+![Python](https://img.shields.io/badge/Python-24292f?style=for-the-badge&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-24292f?style=for-the-badge&logo=node.js&logoColor=339933)
+![Flask](https://img.shields.io/badge/Flask-24292f?style=for-the-badge&logo=flask&logoColor=ffffff)
+![Express](https://img.shields.io/badge/Express-24292f?style=for-the-badge&logo=express&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-24292f?style=for-the-badge&logo=openjdk&logoColor=f89820)
 
 **frontend**<br/>
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-24292f?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-24292f?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Vue.js](https://img.shields.io/badge/Vue.js-24292f?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-24292f?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 </td>
 <td valign="top" width="50%">
 
 **ai & ml**<br/>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=e9eaef)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-24292f?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![OpenCV](https://img.shields.io/badge/OpenCV-24292f?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-24292f?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![pandas](https://img.shields.io/badge/pandas-24292f?style=for-the-badge&logo=pandas&logoColor=e9eaef)
+![LangChain](https://img.shields.io/badge/LangChain-24292f?style=for-the-badge&logo=chainlink&logoColor=375BD2)
 
 **databases & infra**<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-0d1117?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d1117?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292f?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-24292f?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-24292f?style=for-the-badge&logo=redis&logoColor=DC382D)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-24292f?style=for-the-badge&logo=amazondynamodb&logoColor=4053D6)
+![AWS](https://img.shields.io/badge/AWS-24292f?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-24292f?style=for-the-badge&logo=docker&logoColor=2496ED)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-24292f?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
+![Linux](https://img.shields.io/badge/Linux-24292f?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </td>
 </tr>
@@ -93,15 +93,27 @@ full-stack engineer &nbsp;·&nbsp; backend systems &nbsp;·&nbsp; ML &amp; compu
 ## `stats`
 
 <p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hridaydevkar&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hridaydevkar&theme=github" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hridaydevkar&theme=github_dark" />
+</picture>
 </p>
 
 <p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hridaydevkar&theme=github-dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=hridaydevkar&theme=default&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" />
   <img src="https://streak-stats.demolab.com?user=hridaydevkar&theme=github-dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</picture>
 </p>
 
 <p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hridaydevkar&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hridaydevkar&theme=github-light&hide_border=true&color=24292f&line=0969da&point=0969da&area=true&area_color=0969da" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hridaydevkar&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" />
+</picture>
 </p>
 
 <br/>
@@ -109,9 +121,9 @@ full-stack engineer &nbsp;·&nbsp; backend systems &nbsp;·&nbsp; ML &amp; compu
 ## `contact`
 
 <p>
-<a href="https://linkedin.com/in/hridaydevkar"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" /></a>
-<a href="mailto:hridaydevkar@gmail.com"><img src="https://img.shields.io/badge/hridaydevkar%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22" /></a>
-<a href="https://hridaydevkar.github.io/hridaydevkar-portfolio/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=58a6ff&labelColor=161b22" /></a>
+<a href="https://linkedin.com/in/hridaydevkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hridaydevkar@gmail.com"><img src="https://img.shields.io/badge/hridaydevkar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://hridaydevkar.github.io/hridaydevkar-portfolio/"><img src="https://img.shields.io/badge/portfolio-24292f?style=for-the-badge&logo=safari&logoColor=58a6ff&labelColor=30363d" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d0d0d&height=120&section=footer" />
