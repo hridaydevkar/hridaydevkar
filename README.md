@@ -25,8 +25,8 @@ backend engineer &nbsp;·&nbsp; ML &amp; GenAI &nbsp;·&nbsp; open to SDE &amp; 
 <p align="center">
   <samp>
     <b>→ currently</b><br/><br/>
-    backend dev intern @ <b>Route Mobile Ltd</b> &nbsp;·&nbsp; Python · Flask · REST APIs<br/>
-    diving into GenAI — RAG pipelines, LLM fine-tuning, vector stores<br/>
+    backend dev intern @ <b>Route Mobile Ltd</b> &nbsp;·&nbsp; building prod REST APIs in Python &amp; Flask<br/>
+    building a RAG-based doc Q&amp;A system &nbsp;·&nbsp; LangChain · vector stores · LLM eval<br/>
     graduating 2027 &nbsp;·&nbsp; available for full-time from mid-2027
   </samp>
 </p>
